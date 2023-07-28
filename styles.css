@@ -43,6 +43,7 @@ body {
   margin-top: 67px;
   padding-top: 60px;
   padding-left: 180px;
+  padding-bottom: 40px;
 }
 
 .main h1 {
@@ -60,4 +61,6 @@ body {
   background-color: black;
   color: white;
   border: 2px solid #c38b30;
+  padding: 18px 40px;
+  border-radius: 30px;
 }
