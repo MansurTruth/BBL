@@ -2,3 +2,62 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  color: #d5d5d5;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: #d5d5d5;
+}
+
+.nav-bar .nav-btn {
+  background-color: black;
+  color: #d5d5d5;
+  padding: 8px 30px;
+  border: 2px solid #607790;
+  border-radius: 15px;
+}
+
+
+.navigation {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.main {
+  background-color: #262f3f;
+  color: white;
+  height: 50vh;
+  margin-top: 67px;
+  padding-top: 60px;
+  padding-left: 180px;
+}
+
+.main h1 {
+  font-size: 3em;
+  margin: 0;
+  width: 661px;
+}
+
+.main p {
+  width: 665px;
+  font-size: 14px;
+}
+
+.main .main-btn {
+  background-color: black;
+  color: white;
+  border: 2px solid #c38b30;
+}
