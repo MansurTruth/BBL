@@ -132,3 +132,58 @@ footer {
   font-size: 10rem;
   margin-right: 80px;
 }
+
+main {
+  background-color: #061f3b;
+  padding: 20px;
+  color: #d5d5d5;
+}
+
+.trending {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-trending {
+  background-color: #05192f;
+  margin: 20px;
+  width: 260px;
+
+}
+
+.card-trending img {
+  width: 100%;
+  height: 168px;
+}
+
+.trend-detail {
+  font-size: 12px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.trend-btn {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 50%;
+}
+
+.card-collection img {
+  width: 150px;
+  height: 230px;
+}
+
+.collections {
+  display: flex;
+  gap: 10px;
+}
+
+.card-collection {
+  font-size: 12px;
+}
