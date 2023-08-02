@@ -148,7 +148,6 @@ main {
   background-color: #05192f;
   margin: 20px;
   width: 260px;
-
 }
 
 .card-trending img {
@@ -163,7 +162,7 @@ main {
 }
 
 .trend-btn {
-  background-color: #008CBA;
+  background-color: #008cba;
   border: none;
   color: white;
   padding: 10px 24px;
