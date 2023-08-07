@@ -15,8 +15,11 @@ body {
   width: 100%;
 }
 
-.nav-bar a {
+a {
   text-decoration: none;
+}
+
+.nav-bar a {
   color: #d5d5d5;
 }
 
