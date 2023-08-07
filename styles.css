@@ -183,7 +183,7 @@ main {
 
 .collections {
   display: flex;
-  gap: 10px;
+  gap: 15px;
 }
 
 .card-collection {
