@@ -16,8 +16,8 @@ main {
 
 .slider-item {
   flex-shrink: 0;
-  width: 300px;
-  height: 280px;
+  width: 264px;
+  height: 254px;
   background-color: #05192f;
 }
 
@@ -31,6 +31,9 @@ main {
 
 .slider-item p {
   font-size: 12px;
+  color: #4f565e;
+  font-weight: 600;
+  margin: 6px 0;
 }
 
 .card-more {
@@ -45,5 +48,7 @@ main {
 }
 
 .card-details h3 {
-  margin: 0;
+  margin: 5px 0 0 0;
+  font-size: 14px;
+  font-weight: 900;
 }
