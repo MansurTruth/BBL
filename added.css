@@ -52,3 +52,80 @@ main {
   font-size: 14px;
   font-weight: 900;
 }
+
+.polls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.polls img {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+
+}
+
+.polls div {
+  display: flex;
+  width: 100px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 20px;
+  height: 20px;
+  padding: 0 5px;
+}
+
+.polls p {
+  font-size: 10px;
+}
+
+.polls-left {
+  background-color: rgba(49,130,179,.5);
+}
+
+.polls-right {
+  background-color: rgba(214,155,55,0.5);
+}
+
+.polls-right p {
+  color: rgb(214,155,55);
+}
+
+.polls-left p {
+  color: rgb(49,130,179);
+}
+
+.icon-container {
+  width: 22px;
+  height: 60px;
+}
+
+.icon-container p {
+  color: white;
+  font-size: 15px;
+  margin: 0;
+  position: relative;
+  bottom: 12px;
+  left: 15px;
+}
+
+.icon {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  height: 5px;
+}
+
+.dot {
+  width: 3px;
+  height: 3px;
+  background-color: #657d97;
+}
+
+.line {
+  width: 16px;
+  height: 2px;
+  background-color: #657d97;
+}
