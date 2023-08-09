@@ -63,7 +63,6 @@ main {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-
 }
 
 .polls div {
@@ -81,19 +80,19 @@ main {
 }
 
 .polls-left {
-  background-color: rgba(49,130,179,.5);
+  background-color: rgba(49, 130, 179, 0.5);
 }
 
 .polls-right {
-  background-color: rgba(214,155,55,0.5);
+  background-color: rgba(214, 155, 55, 0.5);
 }
 
 .polls-right p {
-  color: rgb(214,155,55);
+  color: rgb(214, 155, 55);
 }
 
 .polls-left p {
-  color: rgb(49,130,179);
+  color: rgb(49, 130, 179);
 }
 
 .icon-container {
